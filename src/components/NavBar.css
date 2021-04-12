@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tittle{
+    font-family: 'Thasadith', sans-serif;
+    font-size: 45px;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.nBarLi, .nBarIt{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    
+}
+
+.nBar{
+    margin-top: 30px;
+    background: rgb(26, 141, 28);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.nBarLi{
+    margin-left: 150px;
+}
+
+.nBarLink{
+    font-size: 21px;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.nBarIt:hover{
+    text-decoration: underline white;
+    background: rgba(236, 255, 237, 0.295);
+    cursor: pointer;
+
+}
+
+.icon{
+    margin-right: 7px;
+}
+
+

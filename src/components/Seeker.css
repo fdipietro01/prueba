@@ -1,0 +1,13 @@
+.seeker{
+    margin-left: 30px;
+    width: 800px;
+    height: 42px;
+    border: 2px solid silver;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.seeker::placeholder{
+    font-size: 18px;
+    line-height: 40px;    
+}

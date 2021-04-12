@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.button{
+    font-size: 21px;
+    padding: 10px;
+    font-weight: 600;
+    margin-left: 200px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.button:hover{
+    background: rgba(236, 255, 237, 0.295);
+    cursor: pointer;
+    text-decoration: underline;
+}
