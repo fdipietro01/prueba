@@ -9,6 +9,10 @@
     font-size: 45px;
 }
 
+.copyR{
+    font-size: 30px;
+}
+
 .head{
     display: flex;
     justify-content: center;
@@ -25,7 +29,7 @@
 
 .nBar{
     margin-top: 30px;
-    background: rgb(26, 141, 28);
+    background: radial-gradient(circle, rgb(26, 141, 28), rgba(50, 247, 53, 0.295));
     display: flex;
     justify-content: center;
     

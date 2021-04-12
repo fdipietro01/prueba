@@ -1,8 +1,8 @@
 import roots from "./root.jpg";
 import "./App.css";
-import { NavBar } from "./components/NavBar";
-import { Seeker } from "./components/Seeker";
-import { ItemListContainer } from "./components/container/ItemListContainer";
+import { NavBar } from "./components/NavBar/NavBar";
+import { Seeker } from "./components/Seeker/Seeker";
+import { ItemListContainer } from "./container/ItemListContainer/ItemListContainer";
 
 function App() {
   return (

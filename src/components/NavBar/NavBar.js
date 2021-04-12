@@ -1,13 +1,13 @@
 import React from "react";
 import './NavBar.css';
-import {FontAwesomeIcon} from '../../node_modules/@fortawesome/react-fontawesome';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import{faHome} from '@fortawesome/free-solid-svg-icons';
 import{faBars} from '@fortawesome/free-solid-svg-icons';
 import{faTruck} from '@fortawesome/free-solid-svg-icons';
 import{faCreditCard} from '@fortawesome/free-solid-svg-icons';
 import{faCommentDots} from '@fortawesome/free-solid-svg-icons';
 import{faPaperPlane} from '@fortawesome/free-solid-svg-icons';
-import { CartButton } from "./CartWidget";
+import { CartButton } from "../CartWidget/CartWidget";
 
 
 
